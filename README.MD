@@ -8,7 +8,9 @@ http://ayumi.cava.jp/ Ayumi's Lab. 様にて公開されている R 言語パッ
 個人用として作成したモデルですので、シミュレーション結果を保証するものではありません。
 
 ## Usage
-LTSpice で使用するときは、ファイル内部の ^ を ** に置換してご使用ください。
+LTSpice で使用するときは、.inc ファイル内部の ^ を ** に置換してご使用ください。
+また、シンボルファイルのサンプル .asy も入れておきました。
+LTSpice 実行時に model ファイルが読み込めないときは、 .include korgNutube.inc のスパイスディレクティブを回路図に追記してください。
 ## Install
 
 ## Contribution
