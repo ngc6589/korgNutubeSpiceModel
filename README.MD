@@ -14,7 +14,7 @@ LTSpice 実行時に model ファイルが読み込めないときは、 .includ
 
 ## モデル作成
 RStudio から行いました。pdf のデータシートを見ながらプロットデータの入力を行います。
-![RStudio Screenshot] (https://user-images.githubusercontent.com/4132056/57895452-9a3ab400-7886-11e9-951b-cbccd71ef05b.jpg)
+![RStudio Screenshot](https://user-images.githubusercontent.com/4132056/57895452-9a3ab400-7886-11e9-951b-cbccd71ef05b.jpg)
 
 pdf の特性図からはややずれていますが、ほぼほぼ近い状態になりました。
 ![RStudio Screenshot2](https://user-images.githubusercontent.com/4132056/57895528-0cab9400-7887-11e9-841e-57c387fd5426.jpg)
