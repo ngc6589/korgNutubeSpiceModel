@@ -20,9 +20,11 @@ pdf の特性図からはややずれていますが、ほぼほぼ近い状態�
 ![RStudio Screenshot2](https://user-images.githubusercontent.com/4132056/57895528-0cab9400-7887-11e9-841e-57c387fd5426.jpg)
 
 ## オリジナル（非公開）の LTSpice によるトレース
+割とリニアな描画結果となりました。
 ![Eg/Ip Official](https://user-images.githubusercontent.com/4132056/57895625-8ba0cc80-7887-11e9-93e6-f448bbb62816.png)
 
 ## 自作したモデルの LTSpice によるトレース
+少しカーブ分も含まれていてそれっぽい感じです。
 ![Eg/Ip MyModel](https://user-images.githubusercontent.com/4132056/57895656-c99df080-7887-11e9-8726-95cea308fd50.png)
 
 ## オリジナル（非公開）の LTSpice によるサンプル回路のシミュレーション
