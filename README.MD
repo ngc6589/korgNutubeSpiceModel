@@ -19,17 +19,10 @@ RStudio から行いました。pdf のデータシートを見ながらプロ�
 pdf の特性図からはややずれていますが、ほぼほぼ近い状態になりました。
 ![RStudio Screenshot2](https://user-images.githubusercontent.com/4132056/57895528-0cab9400-7887-11e9-841e-57c387fd5426.jpg)
 
-## オリジナル（非公開）の LTSpice によるトレース
-割とリニアな描画結果となりました。
-![Eg/Ip Official](https://user-images.githubusercontent.com/4132056/57895625-8ba0cc80-7887-11e9-93e6-f448bbb62816.png)
 
 ## 自作したモデルの LTSpice によるトレース
 少しカーブ分も含まれていてそれっぽい感じです。
 ![Eg/Ip MyModel](https://user-images.githubusercontent.com/4132056/57895656-c99df080-7887-11e9-8726-95cea308fd50.png)
-
-## オリジナル（非公開）の LTSpice によるサンプル回路のシミュレーション
-アンプゲイン約6dB程度で設計した f 特です。
-![D6reK0kUEAAWG0u](https://user-images.githubusercontent.com/4132056/57895712-0ff34f80-7888-11e9-9365-1ad8731a5b89.png)
 
 ## 自作したモデルの LTSpice によるサンプル回路のシミュレーション
 アンプゲイン約6dB程度で設計した f 特です。オリジナルモデルより約1dBほど増幅度が大きくシミュレーションされました。f特はほぼ同等で表示されました。
